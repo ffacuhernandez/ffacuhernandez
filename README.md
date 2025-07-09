@@ -10,7 +10,7 @@
 </p>
 
 <h2>🙋‍♂️ 𝚂𝚘𝚋𝚛𝚎 𝙼í</h2>
-<p><img align="right" width="22%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRtcXJkZHUwZGg4MmNpZDhmdmg0OHgwbjd0bnVrZzNkNXh0Z3FqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" /></p>
+<p><img align="right" width="24%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRtcXJkZHUwZGg4MmNpZDhmdmg0OHgwbjd0bnVrZzNkNXh0Z3FqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" /></p>
 
 - 🎓 Estudiante de Sistemas, en el tercer año.  
 - 💻 Cursando Desarrollo Full Stack.  
@@ -19,6 +19,7 @@
 - 🤝 Abierto a sumarme a proyectos para aprender, colaborar y crecer.  
 - 🎮 Apasionado de los videojuegos y del deporte.
 
+<br>
 <h2>🛠️ 	𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐í𝚊𝚜 𝚚𝚞𝚎 𝚍𝚘𝚖𝚒𝚗𝚘</h2>
 
 <h4> 🧠 𝙻𝚎𝚗𝚐𝚞𝚊𝚓𝚎𝚜</h4>
