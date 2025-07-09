@@ -17,8 +17,8 @@
 - 🌐 Me interesa el desarrollo web frontend backend 
    y full stack.  
 - 🤝 Abierto a sumarme a proyectos para aprender, colaborar y crecer.  
-- 🎮 Apasionado de los videojuegos  
-  y del deporte.
+- 🎮 Apasionado de los videojuegos y del deporte.
+  
 <br><br>
 
 <h2>🛠️ 	𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐í𝚊𝚜 𝚚𝚞𝚎 𝚍𝚘𝚖𝚒𝚗𝚘</h2>
