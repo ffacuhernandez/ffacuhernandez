@@ -11,11 +11,11 @@
 
 <h2>🙋‍♂️ 𝚂𝚘𝚋𝚛𝚎 𝙼í</h2>
 <br>
-<p><img align="right" margin-left: 10px width="38%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRtcXJkZHUwZGg4MmNpZDhmdmg0OHgwbjd0bnVrZzNkNXh0Z3FqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" /></p>
+<p><img align="right" width="38%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRtcXJkZHUwZGg4MmNpZDhmdmg0OHgwbjd0bnVrZzNkNXh0Z3FqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.gif" /></p>
 
 - 🎓 𝙴𝚜𝚝𝚞𝚍𝚒𝚊𝚗𝚝𝚎 𝚍𝚎 𝙻𝚒𝚌𝚎𝚗𝚌𝚒𝚊𝚝𝚞𝚛𝚊 𝚎𝚗 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 𝚎𝚗 𝚎𝚕 𝚝𝚎𝚛𝚌𝚎𝚛 𝚊ñ𝚘 𝚍𝚎 𝚕𝚊 𝚌𝚊𝚛𝚛𝚎𝚛𝚊.
 - 💻 𝙰𝚌𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎 𝚛𝚎𝚊𝚕𝚒𝚣𝚊𝚗𝚍𝚘 𝚞𝚗 𝚌𝚞𝚛𝚜𝚘 𝚍𝚎 𝙳𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝚙𝚊𝚛𝚊 𝚜𝚎𝚐𝚞𝚒𝚛 𝚌𝚛𝚎𝚌𝚒𝚎𝚗𝚍𝚘 𝚌𝚘𝚖𝚘 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚊𝚍𝚘𝚛.  
-- 🌐 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚊𝚍𝚘 𝚝𝚘𝚍𝚘 𝚕𝚘 𝚛𝚎𝚕𝚊𝚌𝚒𝚘𝚗𝚊𝚍𝚘 𝚊𝚕 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 𝚠𝚎𝚋: 𝚏𝚛𝚘𝚗𝚝𝚎𝚗𝚍, 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚢 𝚙𝚛𝚘𝚢𝚎𝚌𝚝𝚘𝚜 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔.  
+- 🌐 𝙸𝚗𝚝𝚎𝚛𝚎𝚜𝚊𝚍𝚘 𝚝𝚘𝚍𝚘 𝚕𝚘 𝚛𝚎𝚕𝚊𝚌𝚒𝚘𝚗𝚊𝚍𝚘 𝚊𝚕 𝚍𝚎𝚜𝚊𝚛𝚛𝚘𝚕𝚕𝚘 𝚠𝚎𝚋: 𝚏𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚢 𝚙𝚛𝚘𝚢𝚎𝚌𝚝𝚘𝚜 𝚏𝚞𝚕𝚕 𝚜𝚝𝚊𝚌𝚔.  
 - 🤝 𝚂𝚒𝚎𝚖𝚙𝚛𝚎 𝚊𝚋𝚒𝚎𝚛𝚝𝚘 𝚊 𝚜𝚞𝚖𝚊𝚛𝚖𝚎 𝚊 𝚙𝚛𝚘𝚢𝚎𝚌𝚝𝚘𝚜 𝚚𝚞𝚎 𝚖𝚎 𝚙𝚎𝚛𝚖𝚒𝚝𝚊𝚗 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛, 𝚌𝚘𝚕𝚊𝚋𝚘𝚛𝚊𝚛 𝚢 𝚐𝚊𝚗𝚊𝚛 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚒𝚊.  
 - 🎮 𝙰𝚙𝚊𝚜𝚒𝚘𝚗𝚊𝚍𝚘 𝚍𝚎 𝚕𝚘𝚜 𝚟𝚒𝚍𝚎𝚘𝚓𝚞𝚎𝚐𝚘𝚜 𝚢 𝚎𝚕 𝚍𝚎𝚙𝚘𝚛𝚝𝚎.
 <br><br>
