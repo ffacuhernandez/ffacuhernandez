@@ -15,8 +15,8 @@
 
 - 🎓 Estudiante de Sistemas, en el tercer año.  
 - 💻 Cursando Desarrollo Full Stack.  
-- 🌐 Me interesa el desarrollo web frontend  
-   backend y full stack.  
+- 🌐 Me interesa el desarrollo web frontend backend 
+   y full stack.  
 - 🤝 Abierto a sumarme a proyectos para aprender, colaborar y crecer.  
 - 🎮 Apasionado de los videojuegos  
   y del deporte.
