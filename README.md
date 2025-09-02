@@ -39,9 +39,17 @@
 <br><br>
 
 <h2> 💌 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚘</h2>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<br>
+<p>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 
+  <a href="https://www.linkedin.com/in/facundotomashernandez/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<br><br>
 <h3 align="center">🚀 Gracias por tomarte el tiempo de visitar mi perfil</h3>
 <p align="center">Si te interesó lo que viste o querés ponerte en contacto, no dudes en escribirme. Estoy siempre abierto a nuevas ideas, proyectos y colaboraciones.</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%">
